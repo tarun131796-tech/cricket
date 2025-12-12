@@ -1,0 +1,15 @@
+langchain
+langgraph
+langserve
+fastapi
+uvicorn
+streamlit
+pandas
+scikit-learn
+xgboost
+langchain-google-genai
+pydantic
+python-dotenv
+sse-starlette
+matplotlib
+seaborn
